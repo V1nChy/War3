@@ -1,0 +1,57 @@
+# Blender MTL File: 'floor.blend'
+# Material Count: 5
+
+newmtl 0815e051_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\0815e051.tga
+
+newmtl 6eedcf3e_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\6eedcf3e.tga
+
+newmtl d8c6d443_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\d8c6d443.tga
+
+newmtl f12ca398_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\f12ca398.tga
+
+newmtl f18f2a15_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\f18f2a15.tga

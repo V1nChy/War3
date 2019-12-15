@@ -1,0 +1,68 @@
+# Blender MTL File: 'None'
+# Material Count: 6
+
+newmtl home_new.002
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\maps\home_new.dds
+
+newmtl lumian_new
+Ns 9.803922
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.300000 0.300000 0.300000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\maps\lumian_1.tga
+
+newmtl lumian_new.003
+Ns 9.803922
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\maps\lumian_1.tga
+
+newmtl lumian_new_NONE
+Ns 9.803922
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.300000 0.300000 0.300000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\Study\\DxProject\\Dx9_GameDesign\\Dx9_GameDesign\\media\\maps\\lumian_1.tga
+
+newmtl side
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.035294 0.033738 0.033218
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\maps\ice_side.dds
+
+newmtl side_NONE
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.035294 0.033738 0.033218
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\Study\\DxProject\\Dx9_GameDesign\\Dx9_GameDesign\\media\\maps\\ice_side.dds

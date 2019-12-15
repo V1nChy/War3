@@ -1,0 +1,395 @@
+# Blender MTL File: 'floor.blend'
+# Material Count: 36
+
+newmtl 02550fee_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\02550fee.tga
+
+newmtl 06___Default
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.470560 0.470560 0.470560
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\7cfd5b2f.tga
+
+newmtl 12___Default
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.470560 0.470560 0.470560
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\UnityProject\ModelTest\Assets\Model\Components\ceshi\Textures\69bbce09.tga
+
+newmtl 12b39e09_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\12b39e09.tga
+
+newmtl 14ac8d0b_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\14ac8d0b.tga
+
+newmtl 1c7c2a73_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\1c7c2a73.tga
+
+newmtl 1cba5a1e_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\1cba5a1e.tga
+
+newmtl 226e8019_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\7cfd5b2f.tga
+
+newmtl 25cfb4ee_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\25cfb4ee.tga
+
+newmtl 2a3ab7a1_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\2a3ab7a1.tga
+
+newmtl 39af97a4_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\39af97a4.tga
+
+newmtl 3ff70144_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\3ff70144.tga
+
+newmtl 429fcfb6_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\429fcfb6.tga
+
+newmtl 54ed1fe8_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\54ed1fe8.tga
+
+newmtl 58610946_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\58610946.tga
+
+newmtl 6289b661_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\6289b661.tga
+
+newmtl 6eedcf3e_dds.001
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\UnityProject\ModelTest\Assets\Model\Components\ceshi\Textures\6eedcf3e.tga
+
+newmtl 7c63a65d_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 7d7d102e_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 7d8443a7_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 8a23cba9_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\8a23cba9.tga
+
+newmtl 8e247306_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\8e247306.tga
+
+newmtl 95628790_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\95628790.tga
+
+newmtl aa06913e_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\aa06913e.tga
+
+newmtl bfd0fa91_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\bfd0fa91.tga
+
+newmtl c79c7b31_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\c79c7b31.tga
+
+newmtl d74f3979_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\d74f3979.tga
+
+newmtl dd3f7fc9_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\dd3f7fc9.tga
+
+newmtl e69a6081_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\e69a6081.tga
+
+newmtl e6e19d15_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\e6e19d15.tga
+
+newmtl ebe6abe2_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\ebe6abe2.tga
+
+newmtl ed1fb129_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\ed1fb129.tga
+
+newmtl ed946057_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\ed946057.tga
+
+newmtl f12ca398_dds.001
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\f12ca398.tga
+
+newmtl f18f2a15_dds.001
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\f18f2a15.tga
+
+newmtl f1bcd80a_dds
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\media\Textures\f1bcd80a.tga

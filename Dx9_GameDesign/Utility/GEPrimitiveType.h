@@ -1,0 +1,39 @@
+#ifndef _GE_PRIMITIVE_TYPE_H_
+#define _GE_PRIMITIVE_TYPE_H_
+
+#include "d3dx9.h"
+
+enum GEPrimitiveType
+{
+	GE_PRIMITIVETYPE_UNKNOWN,
+	GE_POINTLIST,
+	GE_LINELIST,
+	GE_LINESTRIP,
+	GE_TRIANGLELIST,
+	GE_TRIANGLESTRIP,
+	GE_TRIANGLEFAN,
+};
+
+inline D3DPRIMITIVETYPE TranslateToD3DPrimitiveType(GEPrimitiveType g)
+{
+	switch(g)
+	{
+	case GE_POINTLIST:
+		return D3DPT_POINTLIST;
+	case GE_LINELIST:
+		return D3DPT_LINELIST;
+	case GE_LINESTRIP:
+		return D3DPT_LINESTRIP;
+	case GE_TRIANGLELIST:
+		return D3DPT_TRIANGLELIST;
+	case GE_TRIANGLESTRIP:
+		return D3DPT_TRIANGLESTRIP;
+	case GE_TRIANGLEFAN:
+		return D3DPT_TRIANGLEFAN;
+	default:
+		return D3DPT_TRIANGLELIST;
+	}
+}
+
+
+#endif

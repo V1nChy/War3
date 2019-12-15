@@ -1,0 +1,360 @@
+﻿生成启动时间为 2017/2/21 21:28:44。
+     1>项目“D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\Dx9_GameDesign.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Dx9_GameDesign.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         D:\Program Files (x86)\VS2015\VC\bin\CL.exe /c /I..\Dx9_GameDesign /I..\Dx9_GameDesign\Utility /I..\Dx9_GameDesign\Input /I..\Dx9_GameDesign\GUI /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt AllocateHierarchy.cpp Behaviour.cpp BillBoard.cpp camera.cpp d3dUtility.cpp Dx9DemoBase.cpp DxGraphicLayer.cpp GameScene.cpp GUI\MyGUIScrollBarHori.cpp GUI\MyGUIScrollBarVertical.cpp GUI\MyGUIScrollBar.cpp GUI\MyGUICheckBox.cpp LOD.cpp LODmath.cpp LODTerrain.cpp MeshLoader.cpp Model.cpp MyCamera.cpp MyLight.cpp MyMovable.cpp MySceneManager.cpp MainMenu.cpp MyApp.cpp MyEngineFrame.cpp GUI\MyGUIContainer.cpp GUI\MyGUIElementBase.cpp GUI\MyGUILabel.cpp GUI\MyGUIManager.cpp input.cpp Input\MyInput.cpp MyObject.cpp MyRenderQueue.cpp MySkybox.cpp particleSystem.cpp PSystem.cpp SpriteManager.cpp Utility\Frustum.cpp Utility\MyMaterial.cpp Utility\MyTextureManager.cpp Utility\My2DTexture.cpp Utility\GEDeviceEnumerator.cpp Utility\GEDeviceSetting.cpp Utility\GEFile.cpp Utility\MyTexture.cpp Utility\Matrix.cpp Utility\MyTime.cpp Utility\Shaders.cpp Utility\Vector.cpp Utility\MyVertexFormat.cpp Utility\MyColor.cpp Utility\MyFont.cpp Utility\MyFontManager.cpp Utility\MyMath.cpp Utility\MyUTIL.CPP Utility\Plane.cpp Utility\Quaternion.cpp WinMain.cpp RainParticle.cpp SkinMesh.cpp SkyBox.cpp sound.cpp Sprite.cpp terrain.cpp Warcraft.cpp
+         Warcraft.cpp
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\sprite.h(147): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\sprite.h(148): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\sprite.h(161): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\sprite.h(162): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(142): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(143): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(148): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(153): warning C4305: “=”: 从“double”到“float”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(335): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(349): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(361): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(365): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(369): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(373): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(377): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(381): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(385): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(389): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(394): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(399): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(404): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(410): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(414): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(418): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(422): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(426): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(430): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(434): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(438): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(442): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(446): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(450): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(454): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\warcraft.cpp(681): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+         terrain.cpp
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\terrain.cpp(38): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\terrain.cpp(39): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\terrain.cpp(41): warning C4244: “*=”: 从“float”转换到“int”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\terrain.cpp(43): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\terrain.cpp(45): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\terrain.cpp(301): warning C4244: “初始化”: 从“UINT”转换到“float”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\terrain.cpp(302): warning C4244: “初始化”: 从“UINT”转换到“float”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\terrain.cpp(304): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\terrain.cpp(306): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\terrain.cpp(317): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\terrain.cpp(333): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\terrain.cpp(334): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\terrain.cpp(335): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\terrain.cpp(338): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\terrain.cpp(339): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\terrain.cpp(351): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\terrain.cpp(387): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\terrain.cpp(438): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\terrain.cpp(438): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\terrain.cpp(439): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\terrain.cpp(439): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\terrain.cpp(440): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\terrain.cpp(440): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\terrain.cpp(441): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\terrain.cpp(441): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+         Sprite.cpp
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\sprite.h(147): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\sprite.h(148): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\sprite.h(161): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\sprite.h(162): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\sprite.cpp(6): warning C4316: “CSkinMesh”: 在堆上分配的对象可能不是对齐 16
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\sprite.cpp(14): warning C4305: “=”: 从“double”到“float”截断
+         sound.cpp
+         SkyBox.cpp
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\skybox.cpp(34): warning C4552: “<”: 运算符不起任何作用；应输入带副作用的运算符
+         SkinMesh.cpp
+         RainParticle.cpp
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\rainparticle.cpp(26): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\rainparticle.cpp(27): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\rainparticle.cpp(25): warning C4101: “temp2”: 未引用的局部变量
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\rainparticle.cpp(88): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\rainparticle.cpp(89): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\rainparticle.cpp(87): warning C4101: “temp2”: 未引用的局部变量
+         WinMain.cpp
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\d3dutility.h(25): warning C4005: “SAFE_RELEASE”: 宏重定义
+         d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\utility\myutil.h(13): note: 参见“SAFE_RELEASE”的前一个定义
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\d3dutility.h(26): warning C4005: “SAFE_DELETE”: 宏重定义
+         d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\utility\myutil.h(11): note: 参见“SAFE_DELETE”的前一个定义
+         Quaternion.cpp
+         Plane.cpp
+         MyUTIL.CPP
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\utility\myutil.cpp(110): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\utility\myutil.cpp(122): warning C4996: '_fcvt': This function or variable may be unsafe. Consider using _fcvt_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdlib.h(781): note: 参见“_fcvt”的声明
+         MyMath.cpp
+     1>d:\program files (x86)\vs2015\vc\include\utility(145): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+         d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\utility\mymath.cpp(112): note: 参见对正在编译的函数 模板 实例化“std::pair<bool,float>::pair<bool,int,void>(_Other1 &&,_Other2 &&) noexcept”的引用
+                 with
+                 [
+                     _Other1=bool,
+                     _Other2=int
+                 ]
+         d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\utility\mymath.cpp(112): note: 参见对正在编译的函数 模板 实例化“std::pair<bool,float>::pair<bool,int,void>(_Other1 &&,_Other2 &&) noexcept”的引用
+                 with
+                 [
+                     _Other1=bool,
+                     _Other2=int
+                 ]
+         MyFontManager.cpp
+         MyFont.cpp
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\utility\myfont.cpp(136): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+         MyColor.cpp
+         MyVertexFormat.cpp
+         Vector.cpp
+         Shaders.cpp
+         MyTime.cpp
+         Matrix.cpp
+         正在生成代码...
+         正在编译...
+         MyTexture.cpp
+         GEFile.cpp
+         GEDeviceSetting.cpp
+         GEDeviceEnumerator.cpp
+         My2DTexture.cpp
+         MyTextureManager.cpp
+         MyMaterial.cpp
+         Frustum.cpp
+         SpriteManager.cpp
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\sprite.h(147): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\sprite.h(148): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\sprite.h(161): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\sprite.h(162): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\utility\myutil.h(11): warning C4005: “SAFE_DELETE”: 宏重定义
+         d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\allocatehierarchy.h(16): note: 参见“SAFE_DELETE”的前一个定义
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\utility\myutil.h(13): warning C4005: “SAFE_RELEASE”: 宏重定义
+         d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\allocatehierarchy.h(15): note: 参见“SAFE_RELEASE”的前一个定义
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\spritemanager.cpp(38): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\spritemanager.cpp(47): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\spritemanager.cpp(56): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\spritemanager.cpp(65): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\spritemanager.cpp(77): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\spritemanager.cpp(86): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\spritemanager.cpp(95): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\spritemanager.cpp(104): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\spritemanager.cpp(116): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\spritemanager.cpp(125): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\spritemanager.cpp(134): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\spritemanager.cpp(143): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\spritemanager.cpp(155): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\spritemanager.cpp(164): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\spritemanager.cpp(173): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\spritemanager.cpp(182): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\spritemanager.cpp(261): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\spritemanager.cpp(268): warning C4018: “<”: 有符号/无符号不匹配
+         PSystem.cpp
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\utility\myutil.h(11): warning C4005: “SAFE_DELETE”: 宏重定义
+         d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\d3dutility.h(26): note: 参见“SAFE_DELETE”的前一个定义
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\utility\myutil.h(13): warning C4005: “SAFE_RELEASE”: 宏重定义
+         d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\d3dutility.h(25): note: 参见“SAFE_RELEASE”的前一个定义
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\psystem.cpp(158): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\psystem.cpp(208): warning C4018: “<”: 有符号/无符号不匹配
+         particleSystem.cpp
+         MySkybox.cpp
+         MyRenderQueue.cpp
+         MyObject.cpp
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\myobject.cpp(404): warning C4150: 删除指向不完整“MyMesh”类型的指针；没有调用析构函数
+         d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\myobject.h(21): note: 参见“MyMesh”的声明
+         MyInput.cpp
+         d:\program files (x86)\dx sdk\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         input.cpp
+         d:\program files (x86)\dx sdk\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\input.cpp(50): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+         MyGUIManager.cpp
+         MyGUILabel.cpp
+         MyGUIElementBase.cpp
+         MyGUIContainer.cpp
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\gui\myguicontainer.cpp(56): warning C4018: “<”: 有符号/无符号不匹配
+         正在生成代码...
+         正在编译...
+         MyEngineFrame.cpp
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\myengineframe.cpp(175): warning C4002: “LOGINFO”宏的实参太多
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\myengineframe.cpp(263): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+         MyApp.cpp
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\d3dutility.h(25): warning C4005: “SAFE_RELEASE”: 宏重定义
+         d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\utility\myutil.h(13): note: 参见“SAFE_RELEASE”的前一个定义
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\d3dutility.h(26): warning C4005: “SAFE_DELETE”: 宏重定义
+         d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\utility\myutil.h(11): note: 参见“SAFE_DELETE”的前一个定义
+         MainMenu.cpp
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\mainmenu.cpp(242): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\mainmenu.cpp(262): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\mainmenu.cpp(275): warning C4305: “参数”: 从“double”到“float”截断
+         MySceneManager.cpp
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\d3dutility.h(25): warning C4005: “SAFE_RELEASE”: 宏重定义
+         d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\utility\myutil.h(13): note: 参见“SAFE_RELEASE”的前一个定义
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\d3dutility.h(26): warning C4005: “SAFE_DELETE”: 宏重定义
+         d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\utility\myutil.h(11): note: 参见“SAFE_DELETE”的前一个定义
+         MyMovable.cpp
+         MyLight.cpp
+         MyCamera.cpp
+         Model.cpp
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\sprite.h(147): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\sprite.h(148): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\sprite.h(161): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\sprite.h(162): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+         MeshLoader.cpp
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\utility\myutil.h(11): warning C4005: “SAFE_DELETE”: 宏重定义
+         d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\d3dutility.h(26): note: 参见“SAFE_DELETE”的前一个定义
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\utility\myutil.h(13): warning C4005: “SAFE_RELEASE”: 宏重定义
+         d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\d3dutility.h(25): note: 参见“SAFE_RELEASE”的前一个定义
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\allocatehierarchy.h(15): warning C4005: “SAFE_RELEASE”: 宏重定义
+         d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\utility\myutil.h(13): note: 参见“SAFE_RELEASE”的前一个定义
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\allocatehierarchy.h(16): warning C4005: “SAFE_DELETE”: 宏重定义
+         d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\utility\myutil.h(11): note: 参见“SAFE_DELETE”的前一个定义
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\meshloader.cpp(459): warning C4101: “hr”: 未引用的局部变量
+         LODTerrain.cpp
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\lodmath.h(771): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\lodterrain.cpp(445): warning C4101: “string”: 未引用的局部变量
+         LODmath.cpp
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\lodmath.h(499): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\lodmath.h(518): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\lodmath.h(771): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+         LOD.cpp
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\lodmath.h(771): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+         MyGUICheckBox.cpp
+         MyGUIScrollBar.cpp
+         MyGUIScrollBarVertical.cpp
+         MyGUIScrollBarHori.cpp
+         GameScene.cpp
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\d3dutility.h(25): warning C4005: “SAFE_RELEASE”: 宏重定义
+         d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\utility\myutil.h(13): note: 参见“SAFE_RELEASE”的前一个定义
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\d3dutility.h(26): warning C4005: “SAFE_DELETE”: 宏重定义
+         d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\utility\myutil.h(11): note: 参见“SAFE_DELETE”的前一个定义
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\gamescene.cpp(14): warning C4101: “pLab”: 未引用的局部变量
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\gamescene.cpp(15): warning C4101: “pCheckB”: 未引用的局部变量
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\gamescene.cpp(13): warning C4101: “pBtn”: 未引用的局部变量
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\gamescene.cpp(150): warning C4305: “参数”: 从“double”到“FLOAT”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\gamescene.cpp(151): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\gamescene.cpp(154): warning C4305: “=”: 从“double”到“float”截断
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\gamescene.cpp(545): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\gamescene.cpp(420): warning C4101: “dwFace”: 未引用的局部变量
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\gamescene.cpp(421): warning C4101: “fBary1”: 未引用的局部变量
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\gamescene.cpp(421): warning C4101: “fDist”: 未引用的局部变量
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\gamescene.cpp(421): warning C4101: “fBary2”: 未引用的局部变量
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\gamescene.cpp(434): warning C4101: “nearest”: 未引用的局部变量
+         DxGraphicLayer.cpp
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\dxgraphiclayer.cpp(275): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+         Dx9DemoBase.cpp
+         d3dUtility.cpp
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\d3dutility.cpp(190): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\d3dutility.cpp(191): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\d3dutility.cpp(518): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+         正在生成代码...
+         正在编译...
+         camera.cpp
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\camera.cpp(233): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+         BillBoard.cpp
+         Behaviour.cpp
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\d3dutility.h(25): warning C4005: “SAFE_RELEASE”: 宏重定义
+         d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\utility\myutil.h(13): note: 参见“SAFE_RELEASE”的前一个定义
+     1>d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\d3dutility.h(26): warning C4005: “SAFE_DELETE”: 宏重定义
+         d:\study\dxproject\dx9_gamedesign\dx9_gamedesign\utility\myutil.h(11): note: 参见“SAFE_DELETE”的前一个定义
+         AllocateHierarchy.cpp
+         正在生成代码...
+         D:\Program Files (x86)\VS2015\VC\bin\CL.exe /c /I..\Dx9_GameDesign /I..\Dx9_GameDesign\Utility /I..\Dx9_GameDesign\Input /I..\Dx9_GameDesign\GUI /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt MyResource.cpp MyResourceManager.cpp GUI\MyGUIButton.cpp GUI\MyGUIButtonBase.cpp GUI\MyGUIImage.cpp Input\MyMouse.cpp
+         MyMouse.cpp
+         MyGUIImage.cpp
+         MyGUIButtonBase.cpp
+         MyGUIButton.cpp
+         MyResourceManager.cpp
+         MyResource.cpp
+         正在生成代码...
+       Link:
+         D:\Program Files (x86)\VS2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Study\DxProject\Dx9_GameDesign\Debug\EngineDesign.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Study\DxProject\Dx9_GameDesign\Debug\EngineDesign.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Study\DxProject\Dx9_GameDesign\Debug\EngineDesign.lib" /MACHINE:X86 Debug\AllocateHierarchy.obj
+         Debug\Behaviour.obj
+         Debug\BillBoard.obj
+         Debug\camera.obj
+         Debug\d3dUtility.obj
+         Debug\Dx9DemoBase.obj
+         Debug\DxGraphicLayer.obj
+         Debug\GameScene.obj
+         Debug\MyGUIScrollBarHori.obj
+         Debug\MyGUIScrollBarVertical.obj
+         Debug\MyGUIScrollBar.obj
+         Debug\MyGUICheckBox.obj
+         Debug\LOD.obj
+         Debug\LODmath.obj
+         Debug\LODTerrain.obj
+         Debug\MeshLoader.obj
+         Debug\Model.obj
+         Debug\MyCamera.obj
+         Debug\MyLight.obj
+         Debug\MyMovable.obj
+         Debug\MySceneManager.obj
+         Debug\MainMenu.obj
+         Debug\MyApp.obj
+         Debug\MyEngineFrame.obj
+         Debug\MyGUIContainer.obj
+         Debug\MyGUIElementBase.obj
+         Debug\MyGUILabel.obj
+         Debug\MyGUIManager.obj
+         Debug\input.obj
+         Debug\MyInput.obj
+         Debug\MyObject.obj
+         Debug\MyRenderQueue.obj
+         Debug\MySkybox.obj
+         Debug\particleSystem.obj
+         Debug\PSystem.obj
+         Debug\SpriteManager.obj
+         Debug\Frustum.obj
+         Debug\MyMaterial.obj
+         Debug\MyTextureManager.obj
+         Debug\My2DTexture.obj
+         Debug\GEDeviceEnumerator.obj
+         Debug\GEDeviceSetting.obj
+         Debug\GEFile.obj
+         Debug\MyTexture.obj
+         Debug\Matrix.obj
+         Debug\MyTime.obj
+         Debug\Shaders.obj
+         Debug\Vector.obj
+         Debug\MyVertexFormat.obj
+         Debug\MyColor.obj
+         Debug\MyFont.obj
+         Debug\MyFontManager.obj
+         Debug\MyMath.obj
+         Debug\MyUTIL.obj
+         Debug\Plane.obj
+         Debug\Quaternion.obj
+         Debug\WinMain.obj
+         Debug\RainParticle.obj
+         Debug\SkinMesh.obj
+         Debug\SkyBox.obj
+         Debug\sound.obj
+         Debug\Sprite.obj
+         Debug\terrain.obj
+         Debug\Warcraft.obj
+         Debug\MyResource.obj
+         Debug\MyResourceManager.obj
+         Debug\MyGUIButton.obj
+         Debug\MyGUIButtonBase.obj
+         Debug\MyGUIImage.obj
+         Debug\MyMouse.obj
+         Dx9_GameDesign.vcxproj -> D:\Study\DxProject\Dx9_GameDesign\Debug\EngineDesign.exe
+     1>已完成生成项目“D:\Study\DxProject\Dx9_GameDesign\Dx9_GameDesign\Dx9_GameDesign.vcxproj”(Rebuild 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:01:08.14
